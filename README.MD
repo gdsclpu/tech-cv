@@ -7,3 +7,7 @@ Is a very simple and easy to contribute project to help Developers share the exp
 <a href="https://github.com/gdsclpu/tech-cv/issues"><img src="https://img.shields.io/github/issues/gdsclpu/tech-cv?color=pink&logo=github"/></a>
 <a href="https://github.com/gdsclpu/tech-cv/fork"><img src="https://img.shields.io/github/forks/gdsclpu/tech-cv?color=success&logo=github"/></a>
 <a><img src="https://img.shields.io/github/stars/gdsclpu/tech-cv?color=yellow">
+
+
+
+### Contributors

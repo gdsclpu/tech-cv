@@ -16,3 +16,13 @@ Is a very simple and easy to contribute project to help Developers share the exp
     5. Create a pull request
     6. Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 12 hours.
     7. Note you can update this file anytime you want. and then repeat step 5 and 6.
+
+
+### GDCSLPU
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/gdsclpu/)](https://www.linkedin.com/company/gdsclpu/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codemistic/)](https://twitter.com/gdsclpu)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gdsclpu/)](https://www.instagram.com/gdsclpu/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/gdsclpu)](https://github.com/gdsclpu)
+[![views](https://komarev.com/ghpvc/?username=codemistic&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gdsclpu/)
+
+<a href="https://telegram.me/codemistic"><img alt="Telegram for codemistic Group" src="https://img.shields.io/endpoint?style=for-the-badge&amp;url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fcodemistic"></a>

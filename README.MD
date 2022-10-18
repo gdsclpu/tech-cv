@@ -16,5 +16,3 @@ Is a very simple and easy to contribute project to help Developers share the exp
     5. Create a pull request
     6. Now, it time for review (Don't worry, our team we will review your Pull Request(PR) within 12 hours.
     7. Note you can update this file anytime you want. and then repeat step 5 and 6.
-
-### Contributors

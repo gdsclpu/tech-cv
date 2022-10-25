@@ -8,6 +8,7 @@ Prajwal is an Energetic computer science specialist skilled in leadership, with 
 - C/C++
 - Html/CSS
 - JavaScript
+- Machine learning 
 - Python
 - TensorFlow
 - Pytorch
